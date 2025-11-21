@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+SMLE - Simple Machine Learning Enviroment
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

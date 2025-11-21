@@ -11,7 +11,7 @@ authors = [
   { name="Alessio Russo", email="alessio.russo.ar98@gmail.com" },
 ]
 
-readme = "README.md"
+readme = "README.rst"
 
 classifiers = [
   "Development Status :: 3 - Alpha",

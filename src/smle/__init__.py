@@ -7,10 +7,10 @@ from smle.args import Parser
 from smle.logging import Logger
 from smle.utils import generate_haiku_id
 
-class SMLEApp:
+class SMLE:
 
     """
-    The base SMLEApp
+    The base SMLE application
     """
 
     def __init__(self):
