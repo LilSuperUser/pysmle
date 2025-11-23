@@ -1,4 +1,4 @@
-SMLE: Simplify Machine Learning Environments
+SMLE: Simplify Machine Learning Enviroments
 ============================================
 
 .. image:: https://img.shields.io/github/stars/blkdmr/smle?style=social
