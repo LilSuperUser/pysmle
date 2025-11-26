@@ -37,9 +37,17 @@ When you make changes, aim to:
 - Add or update tests and documentation if your change affects behavior or public APIs.
 - Keep commits logically grouped (for example, separate “refactor” from “new feature” where it makes sense).
 
+**Please note** that, in order to test your changes, you need to reinstall `smle` locally in editable mode by running:
+
+```
+pip install -e . 
+```
+
+from the base project directory (the one containing the project `pyproject.toml` file). 
+
 Once your branch is ready:
 
-- Ensure the project still installs and runs as expected (and tests pass, if available).
+- Ensure the project runs as expected (and tests pass, if available).
 - **Rebase or merge the latest default branch into your branch to resolve conflicts before opening the PR.**
 - Push your final changes and prepare to open a pull request.
 
