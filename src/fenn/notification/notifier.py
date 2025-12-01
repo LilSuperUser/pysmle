@@ -20,7 +20,7 @@ class Notifier:
         """
 
         for service_cls in services:
-            self._services.add_service(service_cls())
+            self.add_service(service_cls)
 
     def add_service(self, service: Type[Service]) -> None:
         """Add a notification service.
